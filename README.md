@@ -1,2 +1,27 @@
-# Day1-React-Project-CollegeManagementPortal
-A UI that hepls my way of learning react day-1 which is a college managemeny portal that has dynamic homepage using JSX with basic search box drop down showing departments and details of selected departments. 
+# Smart College Department Portal
+
+A React-based college portal homepage developed using JSX and Vite.
+
+## Features
+
+- Dynamic Department Selection
+- Search Functionality
+- HOD Details
+- Academic Year Display
+- Student Statistics
+- Course Information
+- Notice Board
+- Responsive UI
+
+## Technologies Used
+
+- React JS
+- JSX
+- Vite
+- JavaScript
+- CSS (Inline Styles)
+
+## Author
+
+Mahadharani D
+B.Tech Information Technology
